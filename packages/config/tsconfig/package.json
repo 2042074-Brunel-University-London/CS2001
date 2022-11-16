@@ -1,0 +1,13 @@
+{
+  "name": "@sanamente/tsconfig",
+  "version": "0.0.0",
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tsconfig.base.json",
+    "tsconfig.react.json",
+    "tsconfig.node.json"
+  ]
+}
