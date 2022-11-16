@@ -1,5 +1,4 @@
 {
-  "extends": "@sanamente/tsconfig",
-  "include": ["src", "vite.config.ts"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "extends": "@sanamente/tsconfig/react.json",
+  "include": ["src", "vite.config.ts"]
 }

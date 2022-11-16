@@ -13,7 +13,10 @@ importers:
       turbo: 1.5.5
 
   apps/backend:
-    specifiers: {}
+    specifiers:
+      '@sanamente/tsconfig': workspace:^0.0.0
+    devDependencies:
+      '@sanamente/tsconfig': link:../../packages/config/tsconfig
 
   apps/web:
     specifiers:

@@ -10,7 +10,6 @@
     "target": "ESNext",
     "noEmit": true,
 
-    // This enable to use JavaScript code (though it's not recommended)
     "allowJs": true,
     "strict": false
   }
