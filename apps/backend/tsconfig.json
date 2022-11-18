@@ -1,4 +1,10 @@
 {
   "extends": "@sanamente/tsconfig/node.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@env": ["./src/env"]
+    }
+  },
   "include": ["src"]
 }
