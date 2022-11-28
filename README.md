@@ -1,3 +1,7 @@
+Repository has been moved to [https://github.com/BrunelCS/cs2001-2022_23-group-10-1/import](https://github.com/BrunelCS/cs2001-2022_23-group-10-1/import)
+
+***
+
 # Sana Mente
 
 ## Stack:
